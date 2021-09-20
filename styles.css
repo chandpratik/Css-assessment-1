@@ -1,0 +1,47 @@
+h1 {
+  color: #c60b0b;
+}
+
+h2 {
+  font-style: italic;
+  color: orangered;
+}
+
+ul,
+ol {
+  color: #9b2226;
+}
+p {
+  color: rgb(122, 75, 13);
+}
+
+a {
+  background-color: yellow;
+  color: orangered;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.highlight {
+  font-size: 18px;
+  font-weight: 600;
+  background-color: yellow;
+}
+
+.underline {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.list-style-1 {
+  letter-spacing: 5px;
+}
+
+.list-style-2 {
+  font-weight: 600;
+  color: #9b2226;
+}
